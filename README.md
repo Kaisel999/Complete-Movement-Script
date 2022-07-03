@@ -1,3 +1,2 @@
 # Complete-Movement-Script
-This script is made by Hyzn because there is no script on youtube which has sprint crouching and more
-Subscribe to my Youtube Channel Hyzn
+Some lines of code in the video are not required so I will add the latest script here
